@@ -24,6 +24,9 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.0.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.2" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.4" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="chapter-02/web/Web" />
