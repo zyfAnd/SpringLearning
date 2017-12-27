@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter-01" />
         <module name="chapter-02" />
+        <module name="chapter-03" />
         <module name="SpringLearning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter-01" target="1.5" />
       <module name="chapter-02" target="1.5" />
+      <module name="chapter-03" target="1.5" />
       <module name="SpringLearning" target="1.5" />
     </bytecodeTargetLevel>
   </component>

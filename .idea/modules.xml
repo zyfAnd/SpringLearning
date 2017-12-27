@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringLearning.iml" filepath="$PROJECT_DIR$/SpringLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-01/chapter-01.iml" filepath="$PROJECT_DIR$/chapter-01/chapter-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-02/chapter-02.iml" filepath="$PROJECT_DIR$/chapter-02/chapter-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-03/chapter-03.iml" filepath="$PROJECT_DIR$/chapter-03/chapter-03.iml" />
     </modules>
   </component>
 </project>
