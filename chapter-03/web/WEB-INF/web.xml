@@ -6,11 +6,11 @@
     <servlet>
         <servlet-name>springMVC</servlet-name>
         <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-        <!--<init-param>-->
-            <!--&lt;!&ndash;Sources标注的文件夹下需要新建一个spring文件夹&ndash;&gt;-->
-            <!--<param-name>contextConfigLocation</param-name>-->
-            <!--<param-value>classpath*:spring/spring-mvc.xml</param-value>-->
-        <!--</init-param>-->
+        <init-param>
+            <!--Sources标注的文件夹下需要新建一个spring文件夹-->
+            <param-name>contextConfigLocation</param-name>
+            <param-value>classpath*:spring-mvc.xml</param-value>
+        </init-param>
         <load-on-startup>1</load-on-startup>
         <async-supported>true</async-supported>
     </servlet>
