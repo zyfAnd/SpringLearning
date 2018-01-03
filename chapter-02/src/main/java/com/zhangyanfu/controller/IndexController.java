@@ -23,7 +23,6 @@ public class IndexController {
         System.out.println("entry indexController");
         List<User> users = service.getUsers();
         System.out.println("controller -users -- "+users);
-
         return users;
     }
 }
